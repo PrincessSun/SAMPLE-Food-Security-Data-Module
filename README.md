@@ -1,3 +1,3 @@
 # Hunger-and-Food-Security
 
-This is for my Hunger and Food Security data. 
+This is for Nina's and Jingjing's data on Hunger and Food Security. 
