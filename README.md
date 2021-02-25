@@ -8,8 +8,8 @@ This is for "Hunger and Food Security" team.
 
 [Feb24,2021] Added the "Tracking Changes" folder, which also has a file called "CHANGELOG.txt."
 
-License Agreement: 
+License Agreement[last updated on Feb24,2021]: 
 All the raw data, resources, and codes in our project are accessible to anyone for free. 
 
-Project Reference: 
+Project Reference[last updated on Feb24,2021]: 
 If you would like to reference our project, please refer it as "Hunger and Food Security Joint Malnutrition in Children by UNICEF."
