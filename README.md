@@ -10,3 +10,6 @@ This is for "Hunger and Food Security" team.
 
 License Agreement: 
 All the raw data, resources, and codes in our project are accessible to anyone for free. 
+
+Project Reference: 
+If you would like to reference our project, please refer it as "Hunger and Food Security Joint Malnutrition in Children by UNICEF."
